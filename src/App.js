@@ -7,7 +7,7 @@
 import "./styles.css";
 
 export default function App() {
-  return "test";
+  return <div>test</div>;
 
   // return (
   //   <BrowserRouter>
